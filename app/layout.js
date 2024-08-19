@@ -67,12 +67,20 @@ export default function RootLayout({ children }) {
 									</Link>
 								</li>
 							</ul>
-              <button className="px-10 py-4 inline-block font-medium text-white bg-green-700 rounded-md">Login</button>
+							<button className="px-10 py-4 inline-block font-medium text-white bg-green-700 rounded-md">
+								Login
+							</button>
 						</div>
 					</div>
 				</header>
 
 				{children}
+
+				<footer className="footer-area">
+					<p className="footer-copyright text-center py-4 bg-green-700 text-white capitalize">
+						&copy; 2024 All rights reserved by kawser ahemd roni.
+					</p>
+				</footer>
 			</body>
 		</html>
 	);
