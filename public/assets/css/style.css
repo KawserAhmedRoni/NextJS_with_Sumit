@@ -1,0 +1,28 @@
+.team-area {
+  overflow: hidden;
+}
+.team__content {
+  text-align: center;
+}
+.team__content h4 {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.error-area {
+  overflow: hidden;
+  padding: 120px 0;
+}
+.error__image {
+  max-width: 750px;
+  margin: 0 auto;
+}
+.error__image img {
+  width: 100%;
+}
+.error__content a {
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-weight: 500;
+  display: inline-block;
+}/*# sourceMappingURL=style.css.map */

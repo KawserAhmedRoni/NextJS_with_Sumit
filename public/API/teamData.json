@@ -1,0 +1,23 @@
+[
+	{
+		"id": "1",
+		"image": "https://img.freepik.com/free-photo/portrait-handsome-young-man_158595-262.jpg?t=st=1722358906~exp=1722362506~hmac=65cfd91f68549b82b3d25a430a904c2a35015f87c88abeaf2478d59d7e2094aa&w=1060",
+		"name": "kawser ahmed",
+		"title": "web developer",
+		"des": "Kawser Ahmed Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vitae Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias accusamus ut deleniti voluptates eligendi harum voluptatem officiis soluta quas dolorum! Consequuntur temporibus labore eos hic dolor quisquam sed facilis dignissimos! nulla necessitatibus nostrum a id est quaerat. Fugiat nihil aperiam minima nemo distinctio odio, quae minus nobis architecto saepe deserunt? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias accusamus ut deleniti voluptates eligendi harum voluptatem officiis soluta quas dolorum! Consequuntur temporibus labore eos hic dolor quisquam sed facilis dignissimos!"
+	},
+	{
+		"id": "2",
+		"image": "https://img.freepik.com/free-photo/portrait-beautiful-young-woman-hat_1303-9675.jpg?t=st=1722362391~exp=1722365991~hmac=9ea2f0d7f1a663d87288073dbdfab917dec143203c82c39b8a524844e7e7fa03&w=900",
+		"name": "mst suborna",
+		"title": "finace student",
+		"des": "Mst Suborna Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vitae Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias accusamus ut deleniti voluptates eligendi harum voluptatem officiis soluta quas dolorum! Consequuntur temporibus labore eos hic dolor quisquam sed facilis dignissimos! nulla necessitatibus nostrum a id est quaerat. Fugiat nihil aperiam minima nemo distinctio odio, quae minus nobis architecto saepe deserunt? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias accusamus ut deleniti voluptates eligendi harum voluptatem officiis soluta quas dolorum! Consequuntur temporibus labore eos hic dolor quisquam sed facilis dignissimos!"
+	},
+	{
+		"id": "3",
+		"image": "https://img.freepik.com/free-photo/funny-smiling-hipster-handsome-man-guy-stylish-summer-cloth-street-sunglasses_158538-2274.jpg",
+		"name": "moeen khan",
+		"title": "MBBS doctor",
+		"des": "Moeen Khan Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vitae Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias accusamus ut deleniti voluptates eligendi harum voluptatem officiis soluta quas dolorum! Consequuntur temporibus labore eos hic dolor quisquam sed facilis dignissimos! nulla necessitatibus nostrum a id est quaerat. Fugiat nihil aperiam minima nemo distinctio odio, quae minus nobis architecto saepe deserunt? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias accusamus ut deleniti voluptates eligendi harum voluptatem officiis soluta quas dolorum! Consequuntur temporibus labore eos hic dolor quisquam sed facilis dignissimos!"
+	}
+]

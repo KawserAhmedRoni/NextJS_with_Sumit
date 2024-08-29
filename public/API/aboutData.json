@@ -1,0 +1,23 @@
+[
+	{
+		"id": "01",
+		"image": "../images/admin1.png",
+		"name": "kawser ahmed",
+		"title": "web develooper",
+		"des": "Kawser Ahmed Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vitae Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias accusamus ut deleniti voluptates eligendi harum voluptatem officiis soluta quas dolorum! Consequuntur temporibus labore eos hic dolor quisquam sed facilis dignissimos! nulla necessitatibus nostrum a id est quaerat. Fugiat nihil aperiam minima nemo distinctio odio, quae minus nobis architecto saepe deserunt? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias accusamus ut deleniti voluptates eligendi harum voluptatem officiis soluta quas dolorum! Consequuntur temporibus labore eos hic dolor quisquam sed facilis dignissimos!"
+	},
+	{
+		"id": "02",
+		"image": "../images/admin2.png",
+		"name": "mst suborna",
+		"title": "finace student",
+		"des": "Mst Suborna Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vitae Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias accusamus ut deleniti voluptates eligendi harum voluptatem officiis soluta quas dolorum! Consequuntur temporibus labore eos hic dolor quisquam sed facilis dignissimos! nulla necessitatibus nostrum a id est quaerat. Fugiat nihil aperiam minima nemo distinctio odio, quae minus nobis architecto saepe deserunt? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias accusamus ut deleniti voluptates eligendi harum voluptatem officiis soluta quas dolorum! Consequuntur temporibus labore eos hic dolor quisquam sed facilis dignissimos!"
+	},
+	{
+		"id": "03",
+		"image": "../images/admin3.png",
+		"name": "moeen khan",
+		"title": "MBBS doctor",
+		"des": "Moeen Khan Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vitae Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias accusamus ut deleniti voluptates eligendi harum voluptatem officiis soluta quas dolorum! Consequuntur temporibus labore eos hic dolor quisquam sed facilis dignissimos! nulla necessitatibus nostrum a id est quaerat. Fugiat nihil aperiam minima nemo distinctio odio, quae minus nobis architecto saepe deserunt? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias accusamus ut deleniti voluptates eligendi harum voluptatem officiis soluta quas dolorum! Consequuntur temporibus labore eos hic dolor quisquam sed facilis dignissimos!"
+	}
+]

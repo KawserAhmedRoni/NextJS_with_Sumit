@@ -1,0 +1,36 @@
+// Team area start here ***
+.team {
+	&-area {
+		overflow: hidden;
+	}
+	&__content {
+		text-align: center;
+		h4 {
+			font-size: 24px;
+			font-weight: 500;
+		}
+	}
+}
+// Team area end here ***
+
+.error {
+	&-area {
+		overflow: hidden;
+		padding: 120px 0;
+	}
+	&__image {
+		max-width: 750px;
+		margin: 0 auto;
+		img {
+			width: 100%;
+		}
+	}
+	&__content {
+		a {
+			padding: 8px 16px;
+			border-radius: 6px;
+			font-weight: 500;
+			display: inline-block;
+		}
+	}
+}
